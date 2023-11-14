@@ -12,7 +12,7 @@ How to Control the Rocket
 
 How the Rocket Controls Itself
 ------------------------------
-The rocket can only control its position and orientation using only main engine and two small RCS thrusters as described below:
+The rocket can only control its position and orientation using the main engine and two small RCS thrusters as described below:
 - The main engine can throttle from 0-100%, and gimbal in two axes to a maximum of +/- 10 degrees.
 - The two RCS thrusters are used only for roll control
 
